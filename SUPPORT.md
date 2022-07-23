@@ -1,0 +1,1 @@
+[Alight motion ](https://alightmotion.net/) APK analyzer that is open source. For the time being, the service is only capable of doing static analysis since it is still in beta. Using Yara rules, it is possible to search for malware.
